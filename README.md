@@ -21,3 +21,5 @@
 ![Static Badge](https://img.shields.io/badge/SQLite-gray?logo=sqlite)
 ![Static Badge](https://img.shields.io/badge/Oracle_SQL_Developer-red?logo=oracle)
 ![Static Badge](https://img.shields.io/badge/Wireshark-lightblue?logo=wireshark)
+
+![Visits Badge](https://badges.pufler.dev/visits/EAriza04/badge-it)
