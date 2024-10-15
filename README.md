@@ -13,8 +13,8 @@
 ![Static Badge](https://img.shields.io/badge/R-blue?logo=r)
 ![Static Badge](https://img.shields.io/badge/Eclipse-black?logo=eclipseide)
 ![Static Badge](https://img.shields.io/badge/InteliJ-red?logo=intellijidea)
-![Static Badge](https://img.shields.io/badge/Git-white?logo=git)
-![Static Badge](https://img.shields.io/badge/Haskell-purple?logo=haskell) <br>
+![Static Badge](https://img.shields.io/badge/Git-white?logo=git) <br>
+![Static Badge](https://img.shields.io/badge/Haskell-purple?logo=haskell) 
 ![Static Badge](https://img.shields.io/badge/OpenCV-pink?logo=opencv)
 ![Static Badge](https://img.shields.io/badge/Anaconda-green?logo=anaconda)
 ![Static Badge](https://img.shields.io/badge/Jupyter-gray?logo=jupyter)
