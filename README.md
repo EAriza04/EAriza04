@@ -22,4 +22,4 @@
 ![Static Badge](https://img.shields.io/badge/Oracle_SQL_Developer-red?logo=oracle)
 ![Static Badge](https://img.shields.io/badge/Wireshark-lightblue?logo=wireshark)
 
-![Visits Badge](https://badges.pufler.dev/visits/EAriza04/badge-it)
+![Visist](https://hits.sh/github.com/EAriza04/hits.svg)
